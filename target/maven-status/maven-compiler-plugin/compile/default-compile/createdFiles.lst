@@ -1,0 +1,9 @@
+com\myhub\departmentservice\controllers\DepartmentController.class
+com\myhub\departmentservice\DepartmentServiceApplication.class
+com\myhub\departmentservice\repositories\EmployeeRepository.class
+com\myhub\departmentservice\services\EmployeeService.class
+com\myhub\departmentservice\models\Department.class
+com\myhub\departmentservice\models\Employee.class
+com\myhub\departmentservice\services\DepartmentService.class
+com\myhub\departmentservice\controllers\EmployeeController.class
+com\myhub\departmentservice\repositories\DepartmentRepository.class
